@@ -1,7 +1,7 @@
 name: SkyHighCinema
 favicon: null
-layout_spectrum: 0.548961388412863
-typography_spectrum: 0.7111348761245608
+layout_spectrum: 0
+typography_spectrum: 0.47523
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6555383936502039
+    - '#262626'
+    - '#fffffe'
+    - '#7c8a95'
+    - '#c7bcbc'
+    - '#5c611d'
+  brandStrength: 0.8125
   lightness: 0.45268844650126994
-  saturation: 0.04573396407067776
-  rhythmicContrast: 0.6471089522819966
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
